@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Sajal Vijayvargiya!
 
-🎓 **Computer Science Undergraduate** | 📊 **Aspiring Data Scientist** | 🔍 **Data Enthusiast**
+🎓 **Computer Science Undergraduate** | 📊 **Data Analyst** | 🔍 **Software Engineer** | **Data Engineer** | **Buisness Analyst**
 
-Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to solve real-world problems. My interests lie in **Data Science**, **Machine Learning**, and **Analytics**, and I'm on a journey to turn data into insights and smart systems.
+Welcome to my GitHub! I'm a B.Tech CSE student passionate about using data to solve real-world problems. My interests lie in **Data Science**, **Machine Learning**, and **Analytics**, **Backend** and I'm on a journey to turn data into insights and smart systems.
 
 ---
 
 ## 🚀 Currently Working On:
 - 📚 Sharpening my DSA skills by daily practising  
 - 🧪 Building ML & Data Analysis projects  
-- 🧠 Learning Generative AI  
+
 
 ---
 
