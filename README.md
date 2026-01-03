@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m Sajal Vijayvargiya
 
-🎓 **B.Tech CSE (Data Science & Analytics)**  
+🎓 **Currently pursuing a Bachelor’s degree in Computer Science at Jaypee University of Engineering and Technology.**  
 🧑‍💻 **Future Software Engineer | Data Analyst | Data Engineer | Business Analyst**
 
 I enjoy turning **messy data into clean insights**, **ideas into working systems**, and **coffee into code ☕**.  
