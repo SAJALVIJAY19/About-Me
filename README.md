@@ -10,7 +10,7 @@ Somewhere between debugging errors and optimizing SQL queries, I discovered I lo
 
 ## 🚀 What I’m Busy With These Days
 
-- 🧠 Wrestling with **DSA (Python)** — some days I win, some days it wins  nnjnknkjnknknkjnjnkjnkjnkjnkjn
+- 🧠 Wrestling with **DSA (Python)** — some days I win, some days it wins 
 - 🏗️ Building **real-world projects** (not just “Hello World” ones)
 - 📊 Making data tell stories using **Power BI & Python**
 - ☁️ Learning how software behaves *after* it leaves my laptop
